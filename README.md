@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="./profile.png.jpeg" alt="Monika M V - Embedded Software Engineer" width="100%">
+  <img src="./image_engg.png" alt="Monika M V - Embedded Software Engineer" width="100%" hight="25%">
 </p>
 
 <h1 align="center">Hi 👋, I'm Monika M V</h1>
-<h3 align="center">Embedded Software Engineer | Firmware | Automation | AI</h3>
+<h3 align="center">Embedded Software Engineer | Firmware | Automation | edge AI</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=Embedded+Systems+Enthusiast;C+%7C+C%2B%2B+%7C+Microcontrollers;Firmware+%26+Industrial+Automation;Exploring+AI+%2B+Embedded+Systems" alt="Typing SVG" />
@@ -38,14 +38,11 @@
 ## 🛠️ Technical Skills
 
 ### 💻 Programming Languages
-
 <p>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
 </p>
-
 ### 🔌 Embedded Systems & Microcontrollers
-
 <p>
   <img src="https://img.shields.io/badge/Embedded_C-00897B?style=for-the-badge" alt="Embedded C"/>
   <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" alt="STM32"/>
@@ -55,7 +52,6 @@
 </p>
 
 ### 🔗 Communication Protocols
-
 <p>
   <img src="https://img.shields.io/badge/UART-1565C0?style=for-the-badge" alt="UART"/>
   <img src="https://img.shields.io/badge/USART-1976D2?style=for-the-badge" alt="USART"/>
@@ -65,7 +61,6 @@
 </p>
 
 ### 🐧 Operating Systems & Development Tools
-
 <p>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
